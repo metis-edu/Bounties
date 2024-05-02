@@ -46,6 +46,9 @@ Participants will gain practical experience building a real-world application, d
 ______________________________________________________________________
 
 Additional resources:
+
 https://blog.thirdweb.com/guides/loyalty-card-contract/
+
+
 https://github.com/namankhare/web3-solidity-flipkart-project
 
